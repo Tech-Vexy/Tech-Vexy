@@ -1,10 +1,14 @@
 # 👋 Hello, I'm Veldrine Evelia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/veldrineevelia)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EVeldrine)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-Follow-1DA1F2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyLDEwLjExYzEuMDMtMC4wNiwyLjA5LTAuMzUsMi45NS0wLjg4YzAuOTEtMC41NiwxLjY0LTEuMzQsMi4wOS0yLjI3YzAuNDUtMC45MiwwLjYtMS45NiwwLjQyLTIuOTdjLTAuMTctMSwwLjA2LTEuOTMsMC43LTJjMC42NC0wLjA3LDEuMjcsMC43NiwxLjUxLDEuNzRjMC4yNCwwLjk3LDAuMiwyLjIzLTAuNTQsMy4zYy0wLjksMS4yOS0yLjE0LDIuMDEtMy4yNiwyLjM2Yy0xLjEyLDAuMzUtMi4wMywwLjMzLTIuNjQsMC4xNWMtMC42MS0wLjE4LTAuOS0wLjUxLTAuOS0wLjUxczYuMDIsNy45OCw3LjU3LDEwLjM5YzAuMTUsMC4yNCwwLjEsMC41NC0wLjEyLDAuNzJjLTAuMjIsMC4xOC0wLjU1LDAuMTQtMC43Mi0wLjA4Yy0xLjU1LTEuOTctMy4wMy00LTQuNTQtNi4wMWMtMS41LDItMy4wMSw0LjA0LTQuNTEsNi4wMWMtMC4xNywwLjIzLTAuNSwwLjI3LTAuNzIsMC4wOWMtMC4yMi0wLjE4LTAuMjYtMC41LTAuMTEtMC43NGMxLjQ4LTIuMjgsNy41Mi0xMC4zNiw3LjUyLTEwLjM2cy0wLjI5LDAuMzMtMC45LDAuNWMtMC42MSwwLjE4LTEuNTIsMC4yLTIuNjQtMC4xNWMtMS4xMi0wLjM1LTIuMzUtMS4wNi0zLjI2LTIuMzVjLTAuNzQtMS4wNy0wLjc4LTIuMzMtMC41NC0zLjNjMC4yNC0wLjk4LDAuODctMS44MSwxLjUxLTEuNzRjMC42NCwwLjA3LDAuODcsMSwwLjcsMkMxMC45NSw0LjksMTEuMSw1Ljk0LDExLjU1LDYuODZzMS4xOCwxLjcxLDIuMDksMi4yN2MwLjg1LDAuNTMsMS45MiwwLjgzLDIuOTUsMC44OSIgZmlsbD0id2hpdGUiLz48L3N2Zz4=)](https://bsky.app/profile/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vexy0015)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:eveliaveldrine@gmail.com)
 
 ## 🎓 About Me
-Computer Science student at Kirinyaga University passionate about building innovative solutions. My interests revolve around Artificial Intelligence and Machine Learning, and I'm constantly expanding my knowledge in various programming languages.
+Computer Systems Engineering student at Kirinyaga University passionate about building innovative solutions. My interests revolve around Artificial Intelligence and Machine Learning, and I'm constantly expanding my knowledge in various programming languages.
 
 ## 🛠️ Skills & Technologies
 
@@ -13,9 +17,16 @@ Computer Science student at Kirinyaga University passionate about building innov
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
+  <img src="https://img.icons8.com/?size=48&id=U41Than0pWOW&format=png&color=000000" alt="Rust" title="Rust" />
+  <img src="https://img.icons8.com/?size=48&id=TpULddJc4gTh&format=png&color=000000" alt="C++" title="C++" />
+  <img src="https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=png&color=000000" alt="Java" title="Java" />
 </div>
 
 ### Currently Learning
+- Java
+- TypeScript
+- Spring Boot & Vaadin
 - Python for AI/ML applications
 - Advanced C programming concepts
 - Web development fundamentals
